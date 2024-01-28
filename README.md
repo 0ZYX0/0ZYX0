@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**0ZYX0/0ZYX0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F768&random=false&width=435&lines=Hello%2C+welcome+to+my+GitHub!)]() 
+```
+                         *     ,MMM8&&&.            *
+                              MMMM88&&&&&    .
+                             MMMM88&&&&&&&
+                 *           MMM88&&&&&&&&
+                             MMM88&&&&&&&&
+                             'MMM88&&&&&&'
+                               'MMM8&&&'      *
+                      |\___/|
+                      )     (             .              '
+                     =\     /=
+                       )===(       *
+                      /     \
+                      |     |
+                     /       \
+                     \       /
+              _/\_/\_/\__  _/_/\_/\_/\_/\_/\_/\_/\_/\_/\_
+              |  |  |  |( (  |  |  |  |  |  |  |  |  |  |
+              |  |  |  | ) ) |  |  |  |  |  |  |  |  |  |
+              |  |  |  |(_(  |  |  |  |  |  |  |  |  |  |
+              |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+              |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+```
